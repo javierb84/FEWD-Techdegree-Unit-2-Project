@@ -112,7 +112,9 @@ main {
 }
 
 .my-hobbies {
-    width: 100%;
+    width: 90%;
+    /* background-color: #fff; */
+    margin: 2em auto 2em auto;
     background-color: aliceblue;
     padding-bottom: 50px;
     padding-top: 2em;
